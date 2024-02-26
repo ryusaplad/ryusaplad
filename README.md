@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryusaplad" alt="ryusaplad" /></a> </p>
 
-- 🔭 I’m currently working on private project called **Telemedicine**
-
 - 🌱 I’m currently learning **PHP, JAVA, JS, JQuery**
 
 - 📫 How to reach me **changsaplad@gmail.com**
